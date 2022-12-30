@@ -1,2 +1,2 @@
-"""py_canoe module tests
+"""py_uml_gen_gui module tests
 """

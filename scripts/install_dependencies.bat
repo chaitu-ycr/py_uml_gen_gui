@@ -1,6 +1,3 @@
-::==========================================================================
-::Script to execute before any other. This scripts installs and updates necessary info.
-::==========================================================================
 @echo off
 
 set origin_dir=%CD%
@@ -11,8 +8,6 @@ set root_folder=%CD%
 set working_dir=%root_folder%
 set python_venv_path=%working_dir%\venv
 set python_exe=%python_venv_path%\Scripts\python.exe
-
-:: checking if Python path exists
 
 :PYTHON_VENV
 title "checking if Python virtual environment exists"

@@ -172,6 +172,4 @@ poetry.toml
 
 # pycharm settings
 .idea/
-# CANoe Files
-*.cbf
-*.stcfg
+

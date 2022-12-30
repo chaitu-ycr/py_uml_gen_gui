@@ -1,2 +1,2 @@
-"""Python CANoe module for controlling CANoe via COM.
+"""Python 🐍 UML diagrams generator GUI
 """

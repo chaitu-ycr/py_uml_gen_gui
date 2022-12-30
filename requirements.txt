@@ -1,5 +1,6 @@
-pywin32
-flit
+pylint
+graphviz
+PySimpleGUI
 pytest
 mkdocs
 mkdocstrings
