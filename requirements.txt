@@ -2,6 +2,7 @@ pylint
 graphviz
 PySimpleGUI
 pytest
+flit
 mkdocs
 mkdocstrings
 mkdocs-material
